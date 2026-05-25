@@ -1,4 +1,4 @@
-#Projeto ETL: Enriquecimento de Dados Bancários com IA Generativa
+# Projeto ETL: Enriquecimento de Dados Bancários com IA Generativa
 
 Este projeto foi desenvolvido como parte de um desafio prático da **DIO**, com foco na construção de um pipeline de **ETL (Extract, Transform, Load)** aplicado a um cenário bancário.
 
@@ -6,7 +6,7 @@ A proposta consiste em extrair dados de clientes, processá-los com apoio de Int
 
 ---
 
-#Sobre o Projeto
+# Sobre o Projeto
 
 O desafio original utilizava uma API pública para realizar operações de leitura e atualização de dados. Como a API deixou de funcionar, o projeto foi adaptado para trabalhar com arquivos locais, mantendo toda a lógica do processo ETL.
 
@@ -16,7 +16,7 @@ Essa adaptação também serviu para reforçar conceitos importantes de engenhar
 
 ---
 
-#Estrutura do Pipeline ETL
+# Estrutura do Pipeline ETL
 
 ## 1. Extração (Extract)
 
@@ -67,7 +67,7 @@ Esse arquivo representa a etapa de carregamento do pipeline, simulando a persist
 
 ---
 
-#Como Executar
+# Como Executar
 
 1. Clone este repositório ou faça o download do notebook `.ipynb`
 2. Abra o projeto no Google Colab
@@ -92,7 +92,7 @@ Esse arquivo representa a etapa de carregamento do pipeline, simulando a persist
 
 ---
 
-#Objetivos do Projeto
+# Objetivos do Projeto
 
 * Aplicar conceitos de ETL na prática
 * Trabalhar com manipulação de dados utilizando Pandas
